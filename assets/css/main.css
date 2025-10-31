@@ -3185,7 +3185,6 @@ section,
 }
 
 .conclusion-final::before {
-  content: """;
   font-size: 3rem;
   color: var(--accent-color);
   position: absolute;
@@ -3195,7 +3194,6 @@ section,
 }
 
 .conclusion-final::after {
-  content: """;
   font-size: 3rem;
   color: var(--accent-color);
   position: absolute;
@@ -3225,11 +3223,4 @@ section,
   .conclusion-content {
     padding: 2rem 0;
   }
-}
-
-/*--------------------------------------------------------------
-# Starter Section Section
---------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
 }
